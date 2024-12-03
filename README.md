@@ -57,3 +57,11 @@ Entwickeln Sie eine einfache Seite in Ihrer Laravel-Anwendung, die eine Übersic
 -   **Routing und Controller:** Nutzen Sie Laravel-Routing und einen Controller, um die Daten aus der Datenbank zu laden und an die View zu übergeben.
 -   **Code-Qualität:** Der Code ist klar strukturiert, kommentiert und gut lesbar.
 -   **Datenbankverbindung:** Sie können entweder SQL-Statements oder Laravel-Migrationen nutzen, um die Tabelle und die Daten zu erstellen.
+
+
+## Abgabe:
+
+Laden Sie Ihre Projektdateien in diese Repository hoch!
+
+
+## Viel Erfolg :)
